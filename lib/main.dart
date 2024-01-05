@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home: const Scaffold(body: Text('Hello 3')),
+      home: const Scaffold(body: Text('Hello from windows')),
     );
   }
 }
